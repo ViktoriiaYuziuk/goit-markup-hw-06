@@ -676,6 +676,7 @@ header {
   margin-right: 12px;
 
   background-color: transparent;
+  color: #ffffff;
 
   border: 1px solid rgba(255, 255, 255, 0.3);
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
@@ -948,6 +949,8 @@ header {
 
   cursor: pointer;
 
+  background-color: transparent;
+
   border-radius: 50%;
   border: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
@@ -1107,6 +1110,7 @@ textarea {
   margin: 0 auto;
   padding: 10px 52px;
   min-width: 200px;
+  min-height: 50px;
 
   cursor: pointer;
 
